@@ -3,7 +3,7 @@ An OpenCV Project on Virtual Paint using C++
 
 💫 About this project:
 
-⭐ This project is being created using C++ programming language.
+⭐ This project is created using the C++ programming language.
 
 ⭐ The project also includes Open Computer Vision, viz. OpenCV dependencies.
 

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Projects\Open CV C++ projects\VirtualPaint\VirtualPaint\Source.cpp(44,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Projects\Open CV C++ projects\VirtualPaint\VirtualPaint\Source.cpp(51,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Projects\Open CV C++ projects\VirtualPaint\VirtualPaint\Source.cpp(105,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  VirtualPaint.vcxproj -> E:\Projects\Open CV C++ projects\VirtualPaint\x64\Debug\VirtualPaint.exe

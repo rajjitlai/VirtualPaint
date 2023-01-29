@@ -12,3 +12,7 @@ An OpenCV Project on Virtual Paint using C++
 ⭐ You can also cuztomize the colour of the project.
 
 🤗 Thank you so much for visiting!
+
+## COPYRIGHT INFO
+
+    AUTHOR: Rajjit Laishram

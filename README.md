@@ -11,8 +11,12 @@ An OpenCV Project on Virtual Paint using C++
 
 ⭐ You can also cuztomize the colour of the project.
 
-🤗 Thank you so much for visiting!
-
 ## COPYRIGHT INFO
 
-    AUTHOR: Rajjit Laishram
+    AUTHOR: RAJJIT LAISHRAM
+    DATE CREATED: OCTOBER 18, 2022
+    PURPOSE: TO CREATE A VIRTUAL PAINT APPLICATION FOR INCREASING YOUR PRODUCTIVITY.
+    THE APLLICATION CAN BE USED IN THE FIELDS OF LEARNING OPEN COMPUTER VISION. (WITH C++)
+        
+        
+🤗 Thank you so much for visiting!
